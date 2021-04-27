@@ -1,2 +1,2 @@
 # CV Dummy Inputs
-test 6
+test 7
