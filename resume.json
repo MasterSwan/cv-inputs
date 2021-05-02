@@ -18,6 +18,11 @@
                 "rating" : 6
              },
              {
+                "description" : "I didn't do anything.",
+                "meta-data" : ["nothing"],
+                "rating" : 6
+             },
+             {
                 "description" : "10+ years experience in planning and managing budgets ($700K+) in academia and nonprofit organizations.",
                 "meta-data" : ["admin"],
                 "rating" : 5
