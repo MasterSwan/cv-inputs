@@ -1,81 +1,61 @@
 {
-    "name": "Doe Smiths",
+    "name": "John Jones",
     "email": "mdez87@gmail.com",
-    "title": "Master of Coins",
-    "intro": "Doe has varied research interests. She explores the connection between music and philosophy, and believes the two disciplines are similar, since both require interpretation. She is also interested in the application of existentialism, the art of piano performance, the life, reception, and piano music of Cecile Chaminade, and in reforming the music undergraduate curriculum. Julia has presented papers, presentations, poster sessions, and workshops in numerous conferences.",
+    "title": "Professor of Intelligence",
+    "intro": "Studies in wind band conducting with Craig Kirchhoff, music education with Peter Costanza and Jere Forsythe, and brass pedagogy with Paul Droste and Richard Burkhart. Studies in music education and measurement with Sherman VanderArk, wind band conducting with Richard Jackoboice, and education measurement and statistics with Isadore Newman. Studies in instrumental music education with Donald E. McGinnis, and Robert Culver.",
     "jobs": [
       {
-        "job_title": "Department Chair & Professor",
-        "employer" : "Mississippi University for Women (MUW)",
-        "location" : "Mississippi",
-        "start_date": "July - 2012",
+        "job_title": "Dean & Professor",
+        "employer" : "University of Louisville",
+        "location" : "Kentucky",
+        "start_date": "2002",
         "end_date": "Present",
         "intro" : "",
         "responsibilities" : [
             {
-                "description" : "Successfully launched newly, independent MUW music department in Fall 2012, including design, set-up, establishment and grand opening of new music building (Poindexter Hall).",
-                "meta-data" : ["admin", "budgeting"],
-                "rating" : 6
+                "description" : "Administration of a comprehensive music unit in a research-intensive metropolitan university. The School of Music personnel includes 75 full- and part-time faculty members, a professional staff of 14, and a student body of 350 undergraduate and graduate students.",
+                "meta-data" : ["dean"],
+                "rating" : 8
              },
              {
-                "description" : "I didn't do anything. Therefore this should not show up in the final rendered resume.",
-                "meta-data" : ["nothing"],
-                "rating" : 2
-             },
-             {
-                "description" : "10+ years experience in planning and managing budgets ($700K+) in academia and nonprofit organizations.",
-                "meta-data" : ["admin"],
-                "rating" : 5
-             },
-             {
-                "description" : "Experienced in all aspects of fundraising, from individuals to corporations, including marketing, solicitation, grant writing, identifying prospective donors, and donor management and engagement.",
-                "meta-data" : ["admin", "social"],
+                "description" : "University strategic planning and complementary planning for the school, budgeting, fundraising and development, professional development and evaluation for faculty and staff members, and representation of the university and school in the community and region.",
+                "meta-data" : ["dean"],
                 "rating" : 7
              },
              {
-                "description" : "Significant experience in lobbying congressional members as national student leader on such issues as increasing accessibility to publicly funded research and improving student loan programs.",
-                "meta-data" : ["admin", "social"],
-                "rating" : 7
-             },
-             {
-                "description" : "At MUW, plan semester course schedules within the department and delegate teaching assignments. Reduced time-to-degree and increased student matriculation (highest enrollment on record) via comprehensive curriculum reform.",
-                "meta-data" : ["admin", "social"],
-                "rating" : 4
+                "description" : "Instruction of undergraduate and graduate wind players for performance study and recitals.",
+                "meta-data" : ["professor"],
+                "rating" : 3
              }
         ]
       },
       {
-        "job_title": "Assistant Professor",
-        "employer" : "Mississippi University for Women (MUW)",
-        "location" : "Mississippi",
-        "start_date": "October - 2016",
-        "end_date": "Present",
+        "job_title": "Coordinator & Director of Performing Arts",
+        "employer" : "College of the Arts, University of South Florida",
+        "location" : "Florida",
+        "start_date": "1982",
+        "end_date": "2002",
         "intro" : "",
         "responsibilities" : [
             {
-                "description" : "10+ years experience in concert programming. Coordinated with local, regional, national, and international organizations and performers.",
-                "meta-data" : ["budgeting"],
-                "rating" : 7
+                "description" : "Administration of production, marketing, business affairs, guest artist programming, and cross-disciplinary programs in dance, theatre, and music.",
+                "meta-data" : ["coordinator"],
+                "rating" : 6
              },
              {
-                "description" : "Established MUW Department of Music as the epicenter of musical activity in the region, beginning at its grand-opening weekend and continuing through a season of 40+ musical concerts featuring guests artists, alumni, as well as students and faculty.",
-                "meta-data" : ["admin", "nothing"],
-                "rating" : 4
-             },
-             {
-                "description" : "Maintains robust performance calendar with 40+ annual musical events, in contrast to the five-total annual events hosted by the department prior to 2012.",
-                "meta-data" : ["admin"],
+                "description" : "Strategic planning, faculty duties assignment, resource development and community relations, faculty development and evaluation, budget planning and control, academic program development and review, physical plant maintenance, representation of SOM to college / university / community / accreditation constituencies.",
+                "meta-data" : ["director", "professor"],
                 "rating" : 9
              },
              {
-                "description" : "Fostered more collegial and collaborative faculty environment through more frequent faculty meetings as well as the establishment of an annual faculty retreat. Established faculty evaluation instrument and revised faculty evaluations with the input of all music faculty.",
-                "meta-data" : ["social", "budgeting"],
-                "rating" : 8
+                "description" : "Supervision of graduate and undergraduate academic programs; management of facilities and class schedules; development of music workshops and camps; recruitment of graduate and undergraduate music students; liaison with accreditation agencies; staffing, faculty evaluation, budgeting.",
+                "meta-data" : ["director", "coordinator"],
+                "rating" : 2
              },
              {
-                "description" : "Facilitated faculty-initiated events and programs through identification of funding sources, marketing, and the allocation of administrative support.",
-                "meta-data" : ["admin", "development"],
-                "rating" : 3
+                "description" : "graduate and undergraduate advising, teacher certification and accreditation processes, and curriculum development.",
+                "meta-data" : ["professor", "coordinator"],
+                "rating" : 4
              }
         ]
       }
